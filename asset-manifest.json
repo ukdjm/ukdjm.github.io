@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ukdjm.github.io/static/css/main.222027ba.css",
+    "main.js": "/ukdjm.github.io/static/js/main.30f17511.js",
+    "index.html": "/ukdjm.github.io/index.html",
+    "main.222027ba.css.map": "/ukdjm.github.io/static/css/main.222027ba.css.map",
+    "main.30f17511.js.map": "/ukdjm.github.io/static/js/main.30f17511.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.222027ba.css",
+    "static/js/main.30f17511.js"
+  ]
+}
